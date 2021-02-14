@@ -5,7 +5,7 @@ const App = () => {
   return (
     <View style={styles.body}>
       <View style={styles.sectionContainer}>
-        <Text style={styles.sectionTitle}>Hell!</Text>
+        <Text style={styles.sectionTitle}>Hello World!</Text>
       </View>
     </View>
   );
